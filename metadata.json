@@ -1,0 +1,8 @@
+{
+  "name": "Arcade Omni 5",
+  "description": "A premium collection of 5 distinct browser games featuring 3D graphics, theme customization, and persistent progress.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
